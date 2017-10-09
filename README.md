@@ -1,6 +1,6 @@
 
 
-**NB**: this is a fork of [react-native-popup-dialog](https://github.com/poberwong/react-native-switch-pro)
+**NB**: this is a fork of [react-native-switch-pro](https://github.com/poberwong/react-native-switch-pro)
 
 
 # react-native-switch-pro
