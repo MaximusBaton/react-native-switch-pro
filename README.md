@@ -1,3 +1,8 @@
+
+
+**NB**: this is a fork of [react-native-popup-dialog](https://github.com/poberwong/react-native-switch-pro)
+
+
 # react-native-switch-pro
 [![version](https://img.shields.io/npm/v/react-native-switch-pro.svg)](https://www.npmjs.com/package/react-native-switch-pro) [![downloads](https://img.shields.io/npm/dm/react-native-switch-pro.svg?style=flat)](https://www.npmjs.com/package/react-native-switch-pro)  
 A universal switch for android and iOS, it could be the best switch for react-native on Github.
@@ -17,7 +22,7 @@ A universal switch for android and iOS, it could be the best switch for react-na
 * Clear code style
 
 ## Install
-`npm install react-native-switch-pro --save`
+`npm install --save https://github.com/MaximusBaton/react-native-switch-pro.git`
 
 ## Usage
 * Sync  
