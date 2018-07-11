@@ -4,7 +4,8 @@
 
 
 # react-native-switch-pro
-[![version](https://img.shields.io/npm/v/react-native-switch-pro.svg)](https://www.npmjs.com/package/react-native-switch-pro) [![downloads](https://img.shields.io/npm/dm/react-native-switch-pro.svg?style=flat)](https://www.npmjs.com/package/react-native-switch-pro)  
+[![version](https://img.shields.io/npm/v/react-native-switch-pro.svg)](https://www.npmjs.com/package/react-native-switch-pro) [![downloads](https://img.shields.io/npm/dm/react-native-switch-pro.svg?style=flat)](https://www.npmjs.com/package/react-native-switch-pro)
+[![downloads](https://img.shields.io/npm/dt/react-native-switch-pro.svg?style=flat)](https://www.npmjs.com/package/react-native-switch-pro)  
 A universal switch for android and iOS, it could be the best switch for react-native on Github.
 
 ## Preview
@@ -63,10 +64,10 @@ import Switch from 'react-native-switch-pro'
 width | width of switch | 40 | number
 height | height of switch | 21 | number
 value | state of switch which can be used to bidirectional binding | undefined | bool
-defaultValue | default state of switch | false | bool
 disabled | whether switch is clickable | false | bool
 circleColorActive | color for circle handler of switch when it is on | white | string
 circleColorInactive | color for circle handler of switch when it is off | white | string
+circleStyle | styles that will be applied for the circle | undefined | style
 backgroundActive | color of switch when it is on | green | string
 backgroundInactive | color of switch when it is off | '#ddd' | string
 onSyncPress | callback when switch is clicked | () => null | func
